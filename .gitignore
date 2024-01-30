@@ -1,0 +1,7 @@
+.vs/
+libs/
+node_modules/
+build/Release/
+build/x64/
+build/*.vcxproj
+build/*.vcxproj.filters
