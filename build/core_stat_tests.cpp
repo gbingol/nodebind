@@ -1,8 +1,8 @@
 #include "core_stat_tests.h"
 #include "wrapper_funcs.h"
 
-#include <core/math/stats/tests.h>
-#include <core/math/stats/regression.h>
+#include <core/math/stat_tests.h>
+#include <core/math/stat_regression.h>
 #include <iostream>
 
 

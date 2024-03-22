@@ -1,6 +1,6 @@
 #pragma once
 #include <napi.h>
-#include <core/math/stats/tests.h>
+#include <core/math/stat_tests.h>
 
 //z-test
 Napi::Value stat_test_z(const Napi::CallbackInfo& info);

@@ -1,6 +1,6 @@
 #pragma once
 #include <napi.h>
-#include <core/math/stats/dist.h>
+#include <core/math/stat_dist.h>
 
 Napi::Value dist_pf(const Napi::CallbackInfo& info);
 
